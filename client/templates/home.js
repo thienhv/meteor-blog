@@ -28,7 +28,7 @@ Template.home.helpers({
     return  {
       someText: 'This text  was set using a helper  of  the parent  template.',
       someNested: {
-          text: 'That comes from  "someNested.text"'
+          text: 'That comes from "someNested.text"'
       }
     };
   }
